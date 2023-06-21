@@ -23,8 +23,8 @@ public class sendemail {
 		boolean test=false;
 		
 		String toemail=userinfo.getEmail();
-		String fromEmail="utkarsha.kumbhar@cumminscollege.in";
-		String password="utkarsha06";
+		String fromEmail="***************";
+		String password="***";
 		
 		try {
 			Properties pr=new Properties();
