@@ -1,5 +1,4 @@
-package candidateverification;
-
+package emailverification;
 
 
 public class userinfo {

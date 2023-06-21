@@ -1,4 +1,4 @@
-package candidateverification;
+package emailverification;
 
 import java.util.Properties;
 import java.util.Random;
