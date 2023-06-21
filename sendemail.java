@@ -1,4 +1,4 @@
-package emailverification;
+package candidateverification;
 
 import java.util.Properties;
 import java.util.Random;
@@ -23,8 +23,8 @@ public class sendemail {
 		boolean test=false;
 		
 		String toemail=userinfo.getEmail();
-		String fromEmail="*******************";
-		String password="****";
+		String fromEmail="utkarsha.kumbhar@cumminscollege.in";
+		String password="utkarsha06";
 		
 		try {
 			Properties pr=new Properties();
